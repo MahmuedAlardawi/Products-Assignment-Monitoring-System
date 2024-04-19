@@ -1,0 +1,105 @@
+                    Welcome to Shopping Center Employee Management System 
+                    ----------------------------------------------------- 
+
+                           Information of Employees in Each Center 
+ 
+                    Employees in Aljamaa Center
+	ID         Name                        Product
+	001        Basem Sami                  Electronics
+	002        Sara Omer                   Cleaning
+	003        Ali Altalhi                 Canes
+	004        Banan Almutairi             Fruits
+	005        Asma Alzahrani              Vegetables
+         ----------------------------------------------
+                    Employees in Alrawdah Center
+	ID         Name                        Product
+	006        Rasha Salman                Electronics
+	007        Lora Talal                  Cleaning
+	008        Manal Alghamdi              Canes
+	009        Amal Alharbi                Fruits
+	010        Salma Aljohani              Vegetables
+         ----------------------------------------------
+                    Employees in Obhur Center
+	ID         Name                        Product
+	011        Doaa Alharthi               Electronics
+	012        Taghreed Alsomairi          Cleaning
+	013        Afraa Rashid                Canes
+	014        Hasan Asiri                 Fruits
+	015        Norah Mohammed              Vegetables
+         ----------------------------------------------
+
+	"Employee: Asma Alzahrani, 005, is assigned to Vegetables, in Aljamaa center "
+	"Employee: Manal Alghamdi, 008, is assigned to Canes, in Alrawdah center "
+	"No employee of this number is found "
+
+-------------------------------------------------------------------------------
+
+	Number of employees in Aljamaa center: 5
+	Number of employees in Alrawdah center: 5
+	Number of employees in Obhur center: 5
+
+-------------------------------------------------------------------------------
+
+                    Employees for product Cleaning
+	ID         Name                         Center
+	002        Sara Omer                    Aljamaa
+	007        Lora Talal                   Alrawdah
+	012        Taghreed Alsomairi           Obhur
+
+                    Employees for product Fruits
+	ID         Name                         Center
+	004        Banan Almutairi              Aljamaa
+	009        Amal Alharbi                 Alrawdah
+	014        Hasan Asiri                  Obhur
+
+                    Employees for product Vegetables
+	ID         Name                         Center
+	005        Asma Alzahrani               Aljamaa
+	010        Salma Aljohani               Alrawdah
+	015        Norah Mohammed               Obhur
+
+===============================================================================
+
+                    Change Assigned Product to Null
+	Products for Salma Aljohani : 010 has been changed to null
+
+                    Change Assigned Product to Null
+	Products for Taghreed Alsomairi : 012 has been changed to null
+
+===============================================================================
+
+                    Swap Centers Between Two Employees
+	Hasan Asiri in Obhur center is SWAPPED WITH Basem Sami in Aljamaa center
+
+===============================================================================
+
+                           Information of Employees in Each Center 
+ 
+                    Employees in Aljamaa Center
+	ID         Name                        Product
+	014        Hasan Asiri                 Electronics
+	002        Sara Omer                   Cleaning
+	003        Ali Altalhi                 Canes
+	004        Banan Almutairi             Fruits
+	005        Asma Alzahrani              Vegetables
+         ----------------------------------------------
+                    Employees in Alrawdah Center
+	ID         Name                        Product
+	006        Rasha Salman                Electronics
+	007        Lora Talal                  Cleaning
+	008        Manal Alghamdi              Canes
+	009        Amal Alharbi                Fruits
+	010        Salma Aljohani              null
+         ----------------------------------------------
+                    Employees in Obhur Center
+	ID         Name                        Product
+	011        Doaa Alharthi               Electronics
+	012        Taghreed Alsomairi          null
+	013        Afraa Rashid                Canes
+	001        Basem Sami                  Fruits
+	015        Norah Mohammed              Vegetables
+         ----------------------------------------------
+
+	============================
+		Best Wishes
+	============================

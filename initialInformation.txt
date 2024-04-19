@@ -1,0 +1,21 @@
+15 3 5
+Aljamaa Alrawdah Obhur
+Electronics Cleaning Canes Fruits Vegetables
+001 Basem Sami
+002 Sara Omer
+003 Ali Altalhi
+004 Banan Almutairi
+005 Asma Alzahrani
+006 Rasha Salman
+007 Lora Talal
+008 Manal Alghamdi
+009 Amal Alharbi
+010 Salma Aljohani
+011 Doaa Alharthi
+012 Taghreed Alsomairi
+013 Afraa Rashid
+014 Hasan Asiri
+015 Norah Mohammed
+1300 Aljamaa
+1400 Alrawdah
+1500 Obhur
